@@ -67,16 +67,7 @@ Connect an Android device or emulator and click **Run ▶**
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots of your app here)
-
-Example:
-
 <img width="1683" height="554" alt="image" src="https://github.com/user-attachments/assets/4033534c-fde7-4350-88d3-cb2c3e95897f" />
-
-```
-
----
 
 ## 🎯 Purpose of the Project
 
@@ -85,11 +76,8 @@ This project was created for:
 * Learning **Jetpack Compose**
 * Practicing **modern Android UI development**
 * Building a **portfolio project**
-
 ---
-
 ## 📌 Future Improvements
-
 * Backend integration
 * User authentication
 * Real-time chat

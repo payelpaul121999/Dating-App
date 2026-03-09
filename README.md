@@ -72,10 +72,8 @@ Connect an Android device or emulator and click **Run ▶**
 
 Example:
 
-```
-/screenshots/home.png
-/screenshots/profile.png
-/screenshots/match.png
+<img width="1683" height="554" alt="image" src="https://github.com/user-attachments/assets/4033534c-fde7-4350-88d3-cb2c3e95897f" />
+
 ```
 
 ---
